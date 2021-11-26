@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Gears Of War",
+    "type": "First Person Shutter (FPS)",
+    "author": "Microsoft Game Studios",
+    "publisher": "Epic Games",
+    "platform": "XBOX 360",
+    "isbn_10": "0753555190",
+    "isbn_13": "978-0753555194",
+    "price": 14.29
+  },
+  {
+    "title": "Gears Of War",
+    "type": "First Person Shutter (FPS)",
+    "author": "Microsoft Game Studios",
+    "publisher": "Epic Games",
+    "platform": "XBOX 360",
+    "isbn_10": "0753555190",
+    "isbn_13": "978-0753555194",
+    "price": 14.29,
+    "author2": {
+      "name": "Peter Thiel",
+      "verified": true
+    }
+  }
+]
